@@ -13,22 +13,21 @@ As a Data & AI professional exploring freelance opportunities, I aimed to:
 ## 🛠 Skills Analyzed  
 The analysis focused on the following core competencies:  
 
-- **Data Science & Analytics**: data-science, data-analysis, r  
-- **AI & Automation**: artificial-intelligence, bot-development, chatbot-development  
-- **Computer Vision & Data Handling**: computer-vision, data-extraction, data-visualization  
-- **Machine Learning & Processing**: data-mining, deep-learning, data-cleansing  
-- **Specialized Skills**: image object recognition, ocr-tesseract  
+- **Data Science & Analytics**: data science, data analysis, r, data mining, data cleansing, data extraction, data visualization 
+- **AI & Machine Learning**: artificial intelligence, deep learning
+- **Computer Vision**: computer vision, image object recognition, ocr tesseract  
+- **Automation**: bot development, chatbot development  
 
 ## 📊 Key Findings  
 
 ### 💰 Pricing Insights  
 - **Computer Vision (OCR)** and **Deep Learning** projects command the highest rates  
 - **Bot Development** offers numerous opportunities with slightly lower but still competitive pricing  
-- Typical project values range from **USD 200–1000**  
+- Typical project values range from **USD 200–1,000**  
 - Analysis includes **mean and median calculations** by category for precise rate benchmarking  
 
 ### 📈 Market Demand  
-- Strongest demand for **scraping-related skills** (data mining, web scraping)  
+- Strongest demand for **scraping-related skills** (i.e., data mining, web scraping)  
 - High-value opportunities in **AI and Computer Vision**  
 - Consistent need for foundational Data Science skills:  
   - Data analysis and cleaning  
@@ -45,4 +44,3 @@ The analysis focused on the following core competencies:
 ## 📂 Project Status  
 ✅ Completed Market Analysis as of **Oct 1, 2025**  
 🔄 Next step: Apply findings to refine freelance portfolio & pricing strategy  
-
